@@ -4,7 +4,7 @@
         <description><![CDATA[Authentic Demand]]></description>
         <link>https://thegrid.ai/authentic-demand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 22:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 22:31:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/authentic-demand/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is authentic demand?]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/authentic-demand/what-is-authentic-demand/index.html</link>
             <guid isPermaLink="false">aa60c5ae-f421-4e78-8548-ccbd39b79b17</guid>
             <pubDate>Mon, 21 Mar 2016 22:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/authentic-demand/8f29f92b-3a00-4c47-a2eb-2d8eed411ffa/index.html</link>
+            <guid isPermaLink="false">8f29f92b-3a00-4c47-a2eb-2d8eed411ffa</guid>
+            <pubDate>Mon, 21 Mar 2016 22:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can capitalist societies overcome poverty?]]></title>
@@ -86,14 +92,6 @@ You will have better luck looking at comparable products and what people are pay
             <link>https://thegrid.ai/authentic-demand/can-you-ask-prospective-customers-how-much-they-will-pay-for/index.html</link>
             <guid isPermaLink="false">d3833b21-d597-4577-a26b-e24f974dad28</guid>
             <pubDate>Mon, 21 Mar 2016 18:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My startup looks perfect: innovative product, traction, great business plan, but angels won't fund it.  What's wrong with them?]]></title>
-            <description><![CDATA[<article><h1>My startup looks perfect: innovative product, traction, great business plan, but angels won't fund it.  What's wrong with them?</h1><p>To get funded, you need to look fundable.  No early stage company is anywhere near perfect - for starters, it doesn't have and isn't making any money.  Founders and angels both are looking at this early entity and making judgements or decisions despite a huge amount of uncertainty.  Suppose I said "I have a great book I want to write, it contains five thousand instances of the word "the," and the sentence "I can answer this question."   Will you give me an advance to write the book?  If you were a book publisher, you'd say that that's not enough information to base a decision on.  Startups are like that.  No one knows how customers or partners or competitors will react before they react.  Even when they do react, you don't know why, so you can't rely on them to continue reacting in the same way over time.  You've got very little data.
-So you've put the available data together in a way that makes the company look good, and they haven't.  If you want them to invest their money you have to understand what things look like from their perspective.</p></article>]]></description>
-            <link>https://thegrid.ai/authentic-demand/my-startup-looks-perfect-innovative-product-traction-grea/index.html</link>
-            <guid isPermaLink="false">be88e929-3102-43c2-8b18-1412e4bfbca4</guid>
-            <pubDate>Mon, 21 Mar 2016 18:48:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
