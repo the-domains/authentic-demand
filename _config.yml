@@ -1,0 +1,28 @@
+name: Authentic Demand
+favicon: null
+layout_spectrum: 0.9716747235506773
+typography_spectrum: 0.24299090402200818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2139885500073433
+  lightness: 0.0180587328504771
+  saturation: 0.5210635776165873
+  rhythmicContrast: 0.6649966172408313
+purpose: []
