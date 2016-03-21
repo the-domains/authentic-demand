@@ -2,15 +2,26 @@
     <channel>
         <title><![CDATA[Authentic Demand]]></title>
         <description><![CDATA[Authentic Demand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/authentic-demand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 18:49:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/authentic-demand/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can you ask prospective customers how much they will pay for your product?]]></title>
+            <description><![CDATA[<article><h1>Can you ask prospective customers how much they will pay for your product?</h1><p>To the extent that a product is actually innovative, there probably is none.  Behavioral economists have shown that supposedly irrelevant factors are strong determinants of what people say when you ask them how much they'll pay for something.  For example, in one study, subjects were checked into the room and, for identification, asked for the last two digits of their social security numbers.  They were then asked how much they would pay for a series of items, things like a computer mouse that they wouldn't necessarily have a price in mind for.  In a subsequent study another group was given money (play money I think) and asked to bid on items.
+What consistently happens is that the people with social security numbers that happened to have a higher last two digits, like 72 rather than 27, would say they'd pay higher, and would bid higher.  Just the fact that they said the number beforehand,  a number that was completely irrelevant to the price of the object, strongly influenced their choices.  This and similar experiments have been repeated many times.
+Answers get even more unreliable if you add other biasing factors.  Like the questioner has a number in mind, or a group of people hear each other's answers, or the questioner proposes some possible prices, or those prices are offered in the same order each time.
+Bottom line: If you ask people how much they'll pay for things, the science says that their answers will be unreliable. 
+You will have better luck looking at comparable products and what people are paying for them now. But that gets back to my first point:  to the extent that the product is innovative, and therefore different from things they know about, comparables won't work.</p></article>]]></description>
+            <link>https://thegrid.ai/authentic-demand/can-you-ask-prospective-customers-how-much-they-will-pay-for/index.html</link>
+            <guid isPermaLink="false">d3833b21-d597-4577-a26b-e24f974dad28</guid>
+            <pubDate>Mon, 21 Mar 2016 18:48:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My startup looks perfect: innovative product, traction, great business plan, but angels won't fund it.  What's wrong with them?]]></title>
             <description><![CDATA[<article><h1>My startup looks perfect: innovative product, traction, great business plan, but angels won't fund it.  What's wrong with them?</h1><p>To get funded, you need to look fundable.  No early stage company is anywhere near perfect - for starters, it doesn't have and isn't making any money.  Founders and angels both are looking at this early entity and making judgements or decisions despite a huge amount of uncertainty.  Suppose I said "I have a great book I want to write, it contains five thousand instances of the word "the," and the sentence "I can answer this question."   Will you give me an advance to write the book?  If you were a book publisher, you'd say that that's not enough information to base a decision on.  Startups are like that.  No one knows how customers or partners or competitors will react before they react.  Even when they do react, you don't know why, so you can't rely on them to continue reacting in the same way over time.  You've got very little data.
 So you've put the available data together in a way that makes the company look good, and they haven't.  If you want them to invest their money you have to understand what things look like from their perspective.</p></article>]]></description>
-            <link>undefinedmy-startup-looks-perfect-innovative-product-traction-grea/index.html</link>
+            <link>https://thegrid.ai/authentic-demand/my-startup-looks-perfect-innovative-product-traction-grea/index.html</link>
             <guid isPermaLink="false">be88e929-3102-43c2-8b18-1412e4bfbca4</guid>
             <pubDate>Mon, 21 Mar 2016 18:48:18 GMT</pubDate>
         </item>
