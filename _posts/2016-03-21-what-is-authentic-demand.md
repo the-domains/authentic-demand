@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The word \"authentic\" is meant to raise a question. Is there something that startup founders see or experience, that appears to be demand but isn't? \_"
-datePublished: '2016-03-21T22:13:44.867Z'
-dateModified: '2016-03-21T22:13:37.581Z'
-title: What is authentic demand?
+datePublished: '2016-03-22T22:43:40.290Z'
+dateModified: '2016-03-22T22:43:10.659Z'
+title: 'Authentic demand: The ?'
 author: []
 sourcePath: _posts/2016-03-21-what-is-authentic-demand.md
 published: true
@@ -22,7 +22,7 @@ url: what-is-authentic-demand/index.html
 _type: Article
 
 ---
-# What is authentic demand?
+# Authentic demand: The ?
 
 The word "authentic" is meant to raise a question. Is there something that startup founders see or experience, that appears to be demand but isn't?  
 
